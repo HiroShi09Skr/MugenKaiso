@@ -26,5 +26,5 @@ Maya
 ### 実行ファイル
 [Releasesページ](https://github.com/HiroShi09Skr/MugenKaiso/releases)より「MugenKaisoEXE.zip」をダウンロードし、解凍後「Game.exe」を実行
 ## 紹介動画
-https://github.com/user-attachments/assets/6d437b72-ac00-47e4-9adc-172b9dd1c424
+[紹介動画](https://github.com/user-attachments/assets/6d437b72-ac00-47e4-9adc-172b9dd1c424)
 
