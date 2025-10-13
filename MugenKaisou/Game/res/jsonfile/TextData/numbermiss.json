@@ -1,0 +1,112 @@
+[
+	{
+		"chara": "res/Talkart/Lyine/L_surprised.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_9.wav",
+		"name": "",
+		"message1": "ロジー博士！扉が開きません！",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_6.wav",
+		"name": "",
+		"message1": "うーむ・・・リィーネよ、扉を開くには死んだ日付の\n入力が必要なんじゃが、何故その番号なんじゃ？",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_surprised.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "・・・・",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_bittersmile.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "あはは・・・",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_seriousarm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "・・・・",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_careful.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_26.wav",
+		"name": "",
+		"message1": "リィーネ・・・ちゃんと考えて入力するのじゃ！",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_surprised.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "は、はい！すみません！",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "まったく・・・リィーネ、日記をよく読んで\n思い出すのじゃ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_sad.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "頑張ります・・・",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]

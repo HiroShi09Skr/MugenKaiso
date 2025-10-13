@@ -1,0 +1,17 @@
+numberframe1
+x:
+1185
+y:
+395
+
+numberframe2
+x:
+1352
+
+numberframe3
+x:
+1521
+
+numberframe4
+x:
+1694

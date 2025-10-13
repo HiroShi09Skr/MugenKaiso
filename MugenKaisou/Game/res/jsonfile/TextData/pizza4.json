@@ -1,0 +1,79 @@
+[
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "日記にある通り、5014年は\n暦の数え方が特殊じゃった",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_14.wav",
+		"name": "",
+		"message1": "人々が隕石が衝突する日に怯えて過ごさないように、\nあえて日付をゴチャゴチャにしたんですよね？",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_5.wav",
+		"name": "",
+		"message1": "そうじゃ、ゴチャゴチャといえど、\n算出方法の公式は存在するぞ。",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_0.wav",
+		"name": "",
+		"message1": "この日記に示されている通りじゃな。\n月の算出方法は書かれていないようじゃが",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_bittersmile.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "暦の数え方が変わったから、3月26日だった私の\n誕生日が、62月12日になっちゃったんですね",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "やっと思い出しました",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]

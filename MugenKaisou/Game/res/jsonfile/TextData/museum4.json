@@ -1,0 +1,123 @@
+[
+	{
+		"chara": "res/Talkart/Lyine/L_surprised.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_2.wav",
+		"name": "",
+		"message1": "あ、そうか、博物館！思い出しました！",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_smile.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "懐かしいなぁ・・・\n前にだれかと一緒に行った気がするけど",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_0.wav",
+		"name": "",
+		"message1": "それはワシのことじゃな",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_doubt.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_0.wav",
+		"name": "",
+		"message1": "何言ってるんですか・・・違いますよ！",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_carefularm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_13.wav",
+		"name": "",
+		"message1": "地球の滅亡・・・\n隕石衝突騒動は現実で起きたことじゃ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_sad.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_15.wav",
+		"name": "",
+		"message1": "じゃあ私はもしかして・・・",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_careful.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_6.wav",
+		"name": "",
+		"message1": "クリスマスの日に隕石が衝突する\n予測が出ていたのじゃ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_carefularm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "当たれば人類、地球もろとも塵になるほどの規模",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_carefularm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "世界中が混乱の渦となっておった",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_sad.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_28.wav",
+		"name": "",
+		"message1": "クリスマスの日・・・",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]

@@ -1,0 +1,114 @@
+[
+	
+
+	{
+		"chara": "res/Talkart/Lyine/L_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "あれ？これ、博士の部屋で見たことあります",
+		"command": 1
+	},
+{
+		"chara": "res/Talkart/TalkUI/pop_diary.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 6
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "どうして、遺跡の中に同じものが・・・",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_smilearm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_9.wav",
+		"name": "",
+		"message1": "・・・ふぉっふぉっ！それは100年前の遺物じゃな",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_0.wav",
+		"name": "",
+		"message1": "タブレット型のメモ端末じゃ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_3.wav",
+		"name": "",
+		"message1": "おそらくワシの部屋にある端末と\n画面をリンクできるはずじゃ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/TalkUI/pop_R_diary.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 6
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_13.wav",
+		"name": "",
+		"message1": "ふーん・・・\nそんな簡単にリンクできるんですね！",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "じゃあ早速・・・",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]

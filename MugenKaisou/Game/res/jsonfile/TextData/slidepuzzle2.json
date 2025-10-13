@@ -1,0 +1,35 @@
+[
+	{
+		"chara": "res/Talkart/Rlogy/R_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_6.wav",
+		"name": "",
+		"message1": "ムぅ・・・まずは管理番号を入力する必要が\nあるようじゃな",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_careful.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_5.wav",
+		"name": "",
+		"message1": "モチロン、ここは1109を入力じゃ！",
+		"command": 2
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]

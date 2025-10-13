@@ -1,0 +1,134 @@
+[
+	{
+		"chara": "res/Talkart/Lyine/L_surprised.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_1.wav",
+		"name": "",
+		"message1": "管理番号じゃなくなってる",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_question.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_28.wav",
+		"name": "",
+		"message1": "隕石墜落の前日？",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_carefularm.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_34.wav",
+		"name": "",
+		"message1": "なるほど、この部屋は管理番号を推理する必要が\nあるようじゃのう",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_careful.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "リィーネ、冷静に管理番号を考えてみるのじゃ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_carefularm.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "隕石が墜落する予定日は、クリスマスの日",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_careful.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "ここでいうクリスマスの日は、昔の暦でいえば\n12月25日・・・",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_grinarm.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_28.wav",
+		"name": "",
+		"message1": "つまり、その前日、12月24日を新しい暦に\n変えればいいんですね！",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normalarm.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_5.wav",
+		"name": "",
+		"message1": "そうじゃ！弟子が優秀で嬉しいのう",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_grinarm.png",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_8.wav",
+		"name": "",
+		"message1": "だって私は自慢の弟子ですから！\n管理番号ぐらいすぐ当てられます！",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "これから部屋に入ります。\n管理番号の準備はよろしいでしょうか？",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "管理番号が分かる方はＡボタンを、\n分からない方はXボタンをお願いします",
+		"command": 0
+	},
+	{
+		"chara": "",
+		"bg": "res/Talkart/TalkUI/black.png",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 50
+	}
+]

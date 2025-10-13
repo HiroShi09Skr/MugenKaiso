@@ -1,0 +1,79 @@
+[
+	{
+		"chara": "res/Talkart/Lyine/L_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_14.wav",
+		"name": "",
+		"message1": "入口に戻ってきたみたいです。",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normalarm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "・・・うぉっほん！",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "では、ワシの優秀な弟子リィーネ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "入口の四桁の暗号を解いてみなさい",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_littlesmile.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "・・・・",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_smile.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_10.wav",
+		"name": "",
+		"message1": "・・・はい！行ってきます！",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]

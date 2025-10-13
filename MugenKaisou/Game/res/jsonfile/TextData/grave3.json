@@ -1,0 +1,68 @@
+[
+	{
+		"chara": "res/Talkart/Lyine/L_sad.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_28.wav",
+		"name": "",
+		"message1": "ロジー博士・・・\n私、本当に死んじゃったんですね",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_bittersmile.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "",
+		"name": "",
+		"message1": "でもでも、101歳ってことは結構\n大往生じゃないですか？",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_smilearm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_9.wav",
+		"name": "",
+		"message1": "ふぉっふぉっ！確かにそうじゃな",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normalarm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_23.wav",
+		"name": "",
+		"message1": "ちな、ワシ、101歳",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_surprised.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_9.wav",
+		"name": "",
+		"message1": "えええええーー！",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]

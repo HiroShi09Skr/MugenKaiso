@@ -1,0 +1,145 @@
+[
+	{
+		"chara": "res/Talkart/Lyine/L_surprised.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_9.wav",
+		"name": "",
+		"message1": "ええ！隕石って衝突しなかったんですか！？",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_smilearm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_9.wav",
+		"name": "",
+		"message1": "ふぉっふぉっ！実はそうだったのじゃ！",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_normal.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "そして、運命を逆転させた記念に、\n暦も逆転したのじゃ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_0.wav",
+		"name": "",
+		"message1": "暦が逆転？",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_careful.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_5.wav",
+		"name": "",
+		"message1": "ロジックは至極簡単じゃ。\n新しい暦をそのまま逆から読むのじゃよ。",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_28.wav",
+		"name": "",
+		"message1": "つまり、私の誕生日は、62月12日から\n21月26日に変更？",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_carefularm.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "res/sound/voice/R_5.wav",
+		"name": "",
+		"message1": "そうじゃ。その暦は隕石を回避した翌年からも\nずっと使われておるぞ",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_sad.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_3.wav",
+		"name": "",
+		"message1": "そうなんですね。なんだか複雑で難しいなあ・・・",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_sad.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_14.wav",
+		"name": "",
+		"message1": "そういえば、私ってもう死んでるって話でしたけれど",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_17.wav",
+		"name": "",
+		"message1": "隕石の落下を回避したのなら、\n・・・もしかして生きてますか？",
+		"command": 1
+	},
+	{
+		"chara": "res/Talkart/Rlogy/R_question.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 1400,
+		"charaY": 484,
+		"voice": "",
+		"name": "",
+		"message1": "・・・残念じゃが",
+		"command": 2
+	},
+	{
+		"chara": "res/Talkart/Lyine/L_sad.png",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 172,
+		"charaY": 500,
+		"voice": "res/sound/voice/L_15.wav",
+		"name": "",
+		"message1": "どうして・・・隕石は当たっていないのに",
+		"command": 1
+	},
+	{
+		"chara": "",
+		"bg": "",
+		"bgY": 0,
+		"charaX": 0,
+		"charaY": 0,
+		"voice": "",
+		"name": "",
+		"message1": "",
+		"command": 10
+	}
+]
