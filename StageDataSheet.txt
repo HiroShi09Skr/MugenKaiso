@@ -1,0 +1,3 @@
+■ステージデータシート（Googleスプレッドシート）
+ステージデータを管理しているシートのリンクを以下に添付しています。
+https://docs.google.com/spreadsheets/d/1MgJef0LzGMccqH7XEKMjGQWMfgXDV39gcuClfDO7v9k/edit?usp=drive_link
