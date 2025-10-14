@@ -22,7 +22,10 @@ Adobe illustrator<br>
 Maya
 ## 起動方法
 ### プロジェクト
-上記のプロジェクトをダウンロードし、解凍後「MugenKaiso/Game.sln」を起動
+1．上記のプロジェクトをダウンロードし、解凍<br>
+2．[Releasesページ](https://github.com/HiroShi09Skr/MugenKaiso/releases)より「res.zip」をダウンロードし、解凍<br>
+3．「res」ファイルをプロジェクトの「MugenKaiso/Game」フォルダ内（「source」フォルダと同じ位置）にコピー＆ペースト<br>
+4．「MugenKaiso/Game.sln」を起動
 ### 実行ファイル
 [Releasesページ](https://github.com/HiroShi09Skr/MugenKaiso/releases)より「MugenKaisoEXE.zip」をダウンロードし、解凍後「Game.exe」を実行
 ## 紹介動画
