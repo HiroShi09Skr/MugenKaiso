@@ -23,13 +23,15 @@ Microsoft VitualStudio2022<br>
 [nlomann-json](https://github.com/nlohmann/json)
 
 ## 担当箇所
-プロジェクト内のソースコードで担当したものを下記に明記します。
+プロジェクト内のソースコードで担当したものを下記に明記します。<br>
+ソースコードは、AppFrameフォルダ内とMugenKaisou/Gameフォルダ内の各sourceフォルダにあります。
 <details>
 <summary>担当箇所詳細</summary>
 <pre>
 ・AppFrame（自作ゲームフレームワーク用のライブラリProject）
     gamepad（コントローラー制御）
     MyMath（計算系処理）
+
 ・MugenKaisou（ゲーム本体のProject）
     ModeGame（3Dゲームモードメイン処理）
     Chara（キャラクター制御）
@@ -56,7 +58,7 @@ Microsoft VitualStudio2022<br>
     Pizza
     ShiftBlock
 
-    画面効果
+    画面効果（フェードインアウト）
     Fade
     ModeFade
 </pre>
