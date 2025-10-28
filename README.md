@@ -28,7 +28,6 @@ Microsoft VitualStudio2022<br>
 <details>
 <summary>担当箇所詳細</summary>
 <pre>
-
 - AppFrame（自作ゲームフレームワーク用のライブラリProject）
     - コントローラー制御
     gamepad
