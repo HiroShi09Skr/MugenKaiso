@@ -29,45 +29,44 @@ Microsoft VitualStudio2022<br>
 <summary>担当箇所詳細</summary>
 <pre>
 
-AppFrame（自作ゲームフレームワーク用のライブラリProject）
-- コントローラー制御
-gamepad
-- 計算系処理
-MyMath
+- AppFrame（自作ゲームフレームワーク用のライブラリProject）
+    - コントローラー制御
+    gamepad
+    - 計算系処理
+    MyMath
+- MugenKaisou（ゲーム本体のProject）
+    - 3Dゲームモードメイン処理
+    ModeGame
+    - キャラクター制御
+    Chara
+    - カメラ制御
+    Camera
+    
+    - Roomフォルダ（ステージ（部屋）関連）
+        - 各ステージ制御
+        RoomBase
+        RoomCalcHighLevel
+        RoomCalcLabyrinth
+        RoomData
+        RoomEntrance
+        RoomMuseum
+        RoomPizza
+        RoomSlidePuzzle
+        - ステージデータの読み込み、管理
+        RoomData
+        - ステージの切り替え
+        RoomServer
+        Room.h
 
-MugenKaisou（ゲーム本体のProject）
-- 3Dゲームモードメイン処理
-ModeGame
-- キャラクター制御
-Chara
-- カメラ制御
-Camera
+    - ステージギミック
+    BeltConveyor
+    Door
+    Pizza
+    ShiftBlock
 
-- Roomフォルダ（ステージ（部屋）関連）
-各ステージ制御
-RoomBase
-RoomCalcHighLevel
-RoomCalcLabyrinth
-RoomData
-RoomEntrance
-RoomMuseum
-RoomPizza
-RoomSlidePuzzle
-ステージデータの読み込み、管理
-RoomData
-ステージの切り替え
-RoomServer
-Room.h
-
-- ステージギミック
-BeltConveyor
-Door
-Pizza
-ShiftBlock
-
-- 画面効果（フェードインアウト）
-Fade
-ModeFade
+    - 画面効果（フェードインアウト）
+    Fade
+    ModeFade
 </pre>
 </details>
 
